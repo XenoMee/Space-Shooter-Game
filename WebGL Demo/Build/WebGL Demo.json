@@ -1,0 +1,16 @@
+{
+"companyName": "Tendor Games",
+"productName": "Space Shooter Pro",
+"productVersion": "0.1",
+"dataUrl": "WebGL Demo.data.unityweb",
+"wasmCodeUrl": "WebGL Demo.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL Demo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.12f1"
+}
